@@ -10,7 +10,7 @@
     function ComponentDefinition() {
         var definition = {
             controller: ComponentController,
-            templateUrl: 'app/components/view.html'
+            templateUrl: 'components/view/view.html'
         };
         return definition;
 
